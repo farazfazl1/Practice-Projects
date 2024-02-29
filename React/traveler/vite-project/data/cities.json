@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "226e",
+      "cityName": "Provinsi Maluku",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2024-02-29T01:17:18.998Z",
+      "notes": "Cranked with raz",
+      "position": {
+        "lat": "-3.7310893991204055",
+        "lng": "128.29833984375003"
+      }
+    },
+    {
+      "id": "587d",
+      "cityName": "Obi",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2024-02-29T01:52:51.255Z",
+      "notes": "Lovedit",
+      "position": {
+        "lat": "-1.5218001571132056",
+        "lng": "127.71124723266439"
+      }
+    },
+    {
+      "id": "e79c",
+      "cityName": "Neyshabur",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-02-29T01:55:04.164Z",
+      "notes": "I went on a tour here when I was a kid",
+      "position": {
+        "lat": "36.19558910622435",
+        "lng": "58.81000372555034"
+      }
+    }
+  ]
+}
